@@ -10,6 +10,10 @@ I'm a passionate **Software Developer** with over three years of experience spec
 - **Version Control:** Git, GitHub, TFS, Azure DevOps
 - **Other Tools:** Entity Framework, LINQ, Postman, Hangfire
 
+- ## 📚 Currently Learning
+- **Node.js with Express**
+- **Nest.js**
+
 ## 🎓 Education
 📍 **Information Systems Engineering** - *Universidad Tecnológica Nacional Facultad Regional Córdoba* *(2018 - Present)*  
 - Advanced student, completed **39/42 subjects**.
