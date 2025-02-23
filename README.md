@@ -15,8 +15,10 @@ I'm a passionate **Software Developer** with over three years of experience spec
 - Advanced student, completed **39/42 subjects**.
 
 ## 📚 Certifications
+- **Responsive Web Design** - freeCodeCamp *(December 2024)*
 - **Introduction to Amazon Web Services (AWS)** - Udemy *(April 2023)*
-- **MongoDB: From Zero to Expert** - Udemy *(July 2022)*
+- **MongoDB: Aprende desde cero a experto** - Udemy *(July 2022)*
+- **First Certificate in English (FCE)** - University of Cambridge *(November 2017)*
 
 ## 📫 How to reach me
 - **Email:** evangelinabonzano@gmail.com
