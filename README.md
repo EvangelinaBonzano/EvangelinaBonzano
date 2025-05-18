@@ -13,6 +13,7 @@ I'm a passionate **Software Developer** with over three years of experience spec
 ## 📚 Currently Learning
 - **Node.js with Express**
 - **Nest.js**
+- **Blockchain - Hyperledger Fabric**
 
 ## 🎓 Education
 📍 **Information Systems Engineering** - *Universidad Tecnológica Nacional Facultad Regional Córdoba* *(2018 - Present)*  
